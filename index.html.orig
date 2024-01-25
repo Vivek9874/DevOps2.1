@@ -2,7 +2,11 @@
 <html>
 
 <head>
+<<<<<<< HEAD
      <title>Changing to Branch1</title>
+=======
+     <title>Branch 2</title>
+>>>>>>> branch2
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
@@ -18,7 +22,11 @@
             </a>            
         </div>
             <div class="content-body">
+<<<<<<< HEAD
+                <div class="success-text">Successfully made changes to branch1 index file!</div>
+=======
                 <div class="success-text">Successfully made changes to branch2 indedx file!</div>
+>>>>>>> branch2
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
                 <div class="description line-2"> Your HTML app is up and running on Azure</div>
                 <div class="next-steps-container">
